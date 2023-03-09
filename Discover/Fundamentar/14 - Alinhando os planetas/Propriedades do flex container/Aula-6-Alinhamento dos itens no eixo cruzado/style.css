@@ -1,0 +1,10 @@
+.box {
+    display: flex;
+    border: 1px solid red;
+    align-items: stretch;
+    height: 150px;
+}
+
+.box div {
+    border: 1px dashed blue;
+}

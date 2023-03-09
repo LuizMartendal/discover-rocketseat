@@ -1,0 +1,29 @@
+<input type="password">
+
+    - colocar uma senha de maneira segura
+    - esconde o que está sendo digitado no campo
+    - o estilo da apresentação do campo, depende do User Agent
+
+    # Atributos
+
+    - minlength / maxlength
+        * o número mínimo e/ou máximo de caracteres para este campo
+    - size
+        * o número aceitável de caracteres que esse campo deverá conter
+    - pattern
+        * expressão regular para validar o que está sendo digitado no campo
+        * altamente recomendado o uso de um padrão de segurança alta de senhas
+        * exemplo: queremos que a senha contenha caracteres hexadecimais com limite de no mínimo 4 e no máximo 8 caracteres 
+            * pattern="[0-9a-fA-F]{4,8}"
+    - placeholder
+        * mostra um exemplo de texto a ser digitado no campo
+    - readonly / disable
+        * atributo booleano indicado se o campo está habilitado ou não
+    - inputmode
+        * poderá alterar o uso do teclado em smartphones
+        * exemplo: queremos que o cliente só adicione números
+            * inputmode="numeric"
+    - autocomplete
+        * on: permite a sugestão de: new-password ou current-password
+        * off: desabilita a opção de autocomplemetar
+        * new-password: o navegador poderá sugerir uma nova senha

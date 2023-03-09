@@ -1,0 +1,13 @@
+<select>
+
+    - controle que fornece um menu de opções
+
+    <option>
+        - contém as opções a serem selecionadas
+        - atributos necessários
+            - value
+        Atributos únicos
+            - multiple
+                habilita múltiplas opções
+            - size
+                quando opções são visíveis?

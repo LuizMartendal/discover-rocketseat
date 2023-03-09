@@ -1,0 +1,3 @@
+let e const
+
+const e let são locais e só funcionam no escopo onde foi criada

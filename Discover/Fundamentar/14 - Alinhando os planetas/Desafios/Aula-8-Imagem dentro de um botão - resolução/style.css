@@ -1,0 +1,19 @@
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+}
+
+.box button {
+    border: 1px solid blue;
+    background-color: white;
+    width: 20vh;
+    height: 8vh;
+    display: flex;
+    gap: .8rem;
+    align-items: center;
+}
+
+.box button img {
+    width: 5vh;
+}

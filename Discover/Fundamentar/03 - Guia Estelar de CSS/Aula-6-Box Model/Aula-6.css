@@ -1,0 +1,10 @@
+h1 {
+    border: 1px solid red;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Você irá percever que (quase) tudo são caixas no CSS
+Posicionamentos, tamanhos, espaçamentos, bordasm, cores
+Caixa pode ficar ao lado uma da outra, ou acima
+Elementos HTML são caixas

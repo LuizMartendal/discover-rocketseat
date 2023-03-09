@@ -1,0 +1,15 @@
+.box {
+    display: flex;
+    border: 1px solid red;
+    gap: 2px;
+    width: 10cm;
+}
+
+.box div {
+    border: 1px dashed blue;
+    flex-basis: 25%;
+}
+
+.box div:nth-child(2) {
+    flex: 100px 100%;
+}

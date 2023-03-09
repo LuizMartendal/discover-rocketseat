@@ -1,0 +1,16 @@
+<button>
+
+    - representa um butão
+    - usado para enviar formulários
+    - é estilizado pelo user agent
+
+    Atributos comuns
+    - type
+        - submit
+        - reset
+        - button
+    - autofocus
+    - disabled
+    - name
+    - value
+    - form

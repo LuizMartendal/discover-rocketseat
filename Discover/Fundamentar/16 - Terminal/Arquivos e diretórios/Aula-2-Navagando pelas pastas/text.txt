@@ -1,0 +1,14 @@
+cd
+	Change Directory
+
+Mudar de diretório
+	.
+		diretório atual
+	..
+		voltar diretórios
+	-
+		voltar de onde veio
+
+PS C:\> cd ".\Arquivos de Programas\"
+
+para acessar pastas com espaços eu posso colocar tudo em aspas ou a cada espaço uma barra invertida "Arquivos\ de\ Programas"

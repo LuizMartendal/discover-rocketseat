@@ -1,0 +1,13 @@
+<input type="checkbox">
+
+- caixas que podem ser marcadas
+- selecionar um valor para ser enviado
+- se não selecionado, não será enviado nenhum dado
+
+# atributos
+- globais
+- value
+    * valor que aquele campo contém
+    * se não estiver presente, padrão é 'on'
+- checked
+    * para deixar o campo marcado por padrão

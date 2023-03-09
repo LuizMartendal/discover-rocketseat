@@ -1,0 +1,4 @@
+man
+	- manual dos comandos
+
+apropos

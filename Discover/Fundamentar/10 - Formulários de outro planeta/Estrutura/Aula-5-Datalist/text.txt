@@ -1,0 +1,23 @@
+<datalist>
+
+    - lista de valores como sugestão a uma tag <input>
+    - valores sugestivos e não obrigatorios
+    - usuários poderão selecionar um dos valores, ou colocar um valor diferente da sugestão
+
+<datalist id="fruitsdata">
+    <option>apple</option>
+    <option>banana</option>
+    <option>mango</option>
+    <option>orange</option>
+    <option>cherry</option>
+</datalist>
+
+list
+    - recebe como valor o id de um <datalist> residente no mesmo documento.
+
+Tipos de input suportados
+    - text, search, url, tel, email, date, mounth, week, time, datatime-local, number, range e color
+    valores de datalist que não são compatíveis com o tipo do <input> não serão apresentados
+
+Tipos de input não suportados (conforme especificado)
+    - hidden, password, checkbox, radio, file, ou qualquer tipo de button

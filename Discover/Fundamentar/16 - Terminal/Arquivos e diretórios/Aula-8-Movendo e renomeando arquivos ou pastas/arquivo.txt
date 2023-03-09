@@ -1,0 +1,9 @@
+mv
+	mover (renomear)
+
+mv arquivo.txt pastaSelecionada
+
+
+renomear
+
+mv arquivo2.txt arquivo.txt

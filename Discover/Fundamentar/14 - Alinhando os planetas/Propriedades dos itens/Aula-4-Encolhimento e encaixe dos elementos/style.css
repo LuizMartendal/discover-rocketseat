@@ -1,0 +1,14 @@
+.box {
+    display: flex;
+    border: 1px solid red;
+    width: 10cm;
+}
+
+.box div {
+    border: 1px dashed blue;
+    flex-basis: 50%;
+}
+
+.box div:nth-child(2) {
+    flex-shrink: 0;
+}

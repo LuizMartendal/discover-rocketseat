@@ -1,0 +1,9 @@
+Variáveis
+
+    Nome simbólicos para reeceber algum valor
+    Atalhos de código
+    Identificadores
+    Palavras reservadas 
+        var
+        let
+        const

@@ -1,0 +1,9 @@
+.box {
+    width: 940px;
+    height: 720px;
+    border: 1px solid red;
+    margin-trim: 20px;
+    padding: 0 20x;
+    box-sizing: border-box;
+    background-image: url(http://source.unsplash.com/random);
+}

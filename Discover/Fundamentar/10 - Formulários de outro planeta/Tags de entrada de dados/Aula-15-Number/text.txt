@@ -1,0 +1,7 @@
+<input type="number"/>
+    
+    -entrada de números
+
+    atributos
+    - min/max
+    - step

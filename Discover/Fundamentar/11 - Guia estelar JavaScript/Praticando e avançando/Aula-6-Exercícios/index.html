@@ -1,0 +1,75 @@
+<script>
+    // 1. Declare uma variável de nome weight
+
+    var weight = 60 
+
+    // 2. Que tipo de dado é a variável acima?
+
+    console.log(typeof weight)
+
+    /*
+    3. Declare uma variável e atribua valores para cada um dos dados:
+        name: String
+        age: Number (integer)
+        stars: Number (float)
+        isSubscribed: Boolean
+    */
+
+    let name, age, stars, isSubscribed
+    name = "Luiz"
+    age = 20
+    stars = 5
+    isSubscribed = true
+
+    // 4. A variável student abaixo é de que tipo de dado?
+
+    let student = {}
+
+    console.log(typeof student)
+
+    // 4.1 Atribua a ela as mesmas propriedades e valores do exercício 3
+
+    student = {
+        name: "Luiz",
+        age: 20,
+        weight: 62,
+        isSubscribed: true
+    }
+
+    /*
+    4.2 Mostre no console a seguinte mensagem:
+        <name> de idade <age> pesa <weight> kg
+        
+        Atenção, substitua <name> <age> é <weight> pelos valores de cada propriedade do objeto
+    */
+
+    console.log(student.name + " tem " + student.age + " anos e pesa " + weight + "kg")
+
+    // 5. Declare uma variável do tipo array, de nome students e atribua a ela nenhum valor, ou seja, somente o array vazio
+
+    let students = []
+
+    // 6. Retribua valor para a variável acima, colocando dentro  dela o objeto student da questão 4.
+
+    students [student]
+
+    // 7. Coloque no console o valor da posilçao 0 do array
+
+    console.log(students[0])
+
+    // 8. Crie um novo student e coloque na posição 1 do Array students
+
+    let student2 = {
+        name: "Samara",
+        age: 21,
+        weight: 60,
+        isSubscribed: true
+    }
+
+    students[1] = student2
+
+    // 9. Sem rodar o código responda qual é a resposta do  código abaixo e por que? Após sua resposta rode o código e veja se você acertou.
+
+    console.log(a)
+    var a = 1 
+</script>

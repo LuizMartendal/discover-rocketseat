@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+header {
+    padding: 4rem;
+    background-color: lightgray;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: .8rem;
+    align-items: center;
+}
+
+header ul li:nth-child(5) {
+    background: blue;
+    color: white;
+    padding: 5px;
+}

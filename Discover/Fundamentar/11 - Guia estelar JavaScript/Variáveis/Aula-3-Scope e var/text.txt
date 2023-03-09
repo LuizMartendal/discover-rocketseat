@@ -1,0 +1,14 @@
+SCOPE
+
+Determina a visibilidade de alguma variável no JS
+
+Block statment
+
+vamos iniciar um bloco
+
+{
+    aqui dentro é um bloco e posso colocar código aqui dentro
+}
+
+
+var é global e, também local

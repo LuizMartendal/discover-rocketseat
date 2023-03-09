@@ -1,0 +1,8 @@
+rm
+	remover (para sempre)
+
+-r
+	remove todo o diretório
+
+-f
+	force (sem perguntar)

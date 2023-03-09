@@ -1,0 +1,9 @@
+cp
+	copiar
+
+-r para ajudar a copiar diretórios
+
+
+cp arquivo1 arquivo2 destino
+
+cp -r pasta1 pasta2 pasta destino

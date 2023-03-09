@@ -1,0 +1,16 @@
+*
+	1 ou mais caracteres
+?
+	1 caracter
+
+Exemplo:
+
+	Arquivo1
+	Arquivo2
+	Arquivo3
+	Texto
+	Texto1
+	Arquivo8
+
+	A* >>>>>>>>>> vai selecionar todos que começam com a
+	Arquivo? >>>>>>>> vai selecionar todos "Arquivos" indiferente da próxima (somente próxima) letra

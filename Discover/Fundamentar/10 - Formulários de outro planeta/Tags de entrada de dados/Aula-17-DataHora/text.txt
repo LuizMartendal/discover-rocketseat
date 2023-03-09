@@ -1,0 +1,6 @@
+outros campos interessantes
+(mas que ainda não tem um ótimo suporte)
+
+https://caniuse.com
+
+<input type="datetime, week, datetime-local, month, time">

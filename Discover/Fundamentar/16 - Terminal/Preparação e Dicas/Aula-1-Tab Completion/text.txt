@@ -1,0 +1,5 @@
+Dicas e truques
+
+Tab completion
+	- command
+	- arguments
